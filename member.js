@@ -1,7 +1,3 @@
-/**
- * Creates a directive for a skills member.
- * @returns {Object} The directive object.
- */
 function skillsmember() {
     return {
         restrict: 'E',
